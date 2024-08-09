@@ -1,0 +1,16 @@
+.nav-parent.active {
+    background: linear-gradient(180deg, #6C0345 0, #6C0345 100%) !important;
+    color: #fff;
+}
+.magic-bg {
+    background: linear-gradient(180deg, #6C0345 0, #6C0345 100%) !important;
+}
+.get-started-for-free {
+    background: linear-gradient(180deg, #f6f3f2 4.81%, #6C0345 34.76%, #6C0345 60.81%, #6C0345 105.95%);
+}
+.subscription-plan-tab .nav-tabs .nav-link.active {
+    background: linear-gradient(180deg, #6C0345 0, #6C0345 0 100%) !important;
+}
+#switch{
+display:none;
+}

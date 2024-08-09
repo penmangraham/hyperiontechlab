@@ -1,0 +1,2 @@
+[10-Jul-2024 02:27:05 UTC] PHP Deprecated:  Optional parameter $value declared before required parameter $tableName is implicitly treated as a required parameter in /home/buildit/hyperiontechlab.com/app/Http/Controllers/Controller.php on line 127
+[10-Jul-2024 10:03:18 UTC] PHP Warning:  file_get_contents(/home/buildit/hyperiontechlab.com/wp-login.php(2) : eval()'d code): Failed to open stream: No such file or directory in /home/buildit/hyperiontechlab.com/wp-login.php(2) : eval()'d code on line 1
